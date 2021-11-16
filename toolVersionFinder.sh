@@ -3,7 +3,7 @@
 filename=$1
 n=1
 
-echo "Program,path,--version,-v,-V" > table.csv
+echo "Program,path,--version,-v,-V" > $filename.csv
 
 while read line; do
 # reading each line
