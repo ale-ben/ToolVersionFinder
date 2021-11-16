@@ -1,2 +1,2 @@
 # ToolVersionFinder
-Script per velocizzare la ricerca delle versioni dei tool insalata un una determinata suite base UNIX.
+Script per velocizzare la ricerca delle versioni dei tool installati un una determinata suite base UNIX.
