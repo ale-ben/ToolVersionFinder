@@ -36,6 +36,7 @@ In fase di importazione selezionare come separatore SOLO il carattere virgola (,
 #### Esempio Output
 L'output dello script per l'input al punto 2 sarà il seguente
 ```
+Program,path,--version,-v,-V
 Cyclone,Not Found,--,--,--
 dc3dd,/usr/bin/dc3dd,dc3dd (dc3dd) 7.2.641|Copyright (C) 2008 Free Software Foundation  Inc.|,,
 dcfldd,/usr/bin/dcfldd,dcfldd (dcfldd) 1.3.4-1|Written by: dcfldd by Nicholas Harbour  GNU dd by Paul Rubin  David MacKenzie and Stuart Kemp.|,,
