@@ -50,4 +50,4 @@ ewfacquirestream,/usr/bin/ewfacquirestream,ewfacquirestream 20180403||,ewfacquir
 ftkimager,/usr/bin/ftkimager,,,
 guymager,/usr/bin/guymager,|Using default log file name /var/log/guymager.log|,|Using default log file name /var/log/guymager.log|,|Using default log file name /var/log/guymager.log|
 ```
-
+![Table Output](https://github.com/ale-ben/ToolVersionFinder/blob/master/example/tableOut.png)
