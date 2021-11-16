@@ -32,7 +32,8 @@ Lo script va lanciato da terminale *sh seguito dal nome del file in input, verr�
 Il file di output è in formato *csv* e può essere importato in quasi tutti i fogli di calcolo.
 #### IMPORTANTE:
 In fase di importazione selezionare come separatore SOLO il carattere virgola (,)
-#### Esempio Output
+
+#### Esempio Output
 L'output dello script per l'input al punto 2 sarà il seguente
 ```
 Cyclone,Not Found,--,--,--
